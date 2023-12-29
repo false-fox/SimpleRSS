@@ -1,5 +1,5 @@
 # SimpleRSS
-A simple FOSS discord bot to monitor an RSS feed and send it to a designated channel.
+A simple FOSS discord bot to monitor several RSS feeds and send it to a designated channel.
 
 ## Usage
 1. Install packages with ``npm i``
